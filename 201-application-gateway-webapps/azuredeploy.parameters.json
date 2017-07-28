@@ -19,9 +19,6 @@
     },
     "azureWebApp2": {
       "value": "def.azurewebsites.net"
-    },
-    "probeEnabled": {
-      "value": true
     }
   }
 }
